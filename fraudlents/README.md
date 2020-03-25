@@ -21,9 +21,12 @@ These are our steps to approach the problem:-
 In case of outliers, Z-Score proves to be better when compared to Min- Max
 Normalization. Z-score normalization is calculated using - Z = (X - Mean) / (Standard
 Deviation) where X is feature
+
 • Train-Test split
+
 • Set up ANN and initialized it with the activation function ,learning rate , MSE and no of
 epoch
+
 • Normalized trained features are passed as input to neural network setupOur ANN classifier learns from inputs given to the model using continuous forward and
 backpropagation until a cost function of given hypothesis is minimized. Predictions are
 compared with real values using confusion matrices
@@ -32,9 +35,14 @@ fraud dataset was done through various models such as ensemble system , clusteri
 encoders , Gaussian Regression etc but ANN proved to produce better results.
 The periodic fetching , updation of dataset and re-training of dataset will be done through
 our model.
+
 At last when the fraudster is identified all the information related to that individual like
 account no will be notified to income tax department through an api .
+
 Our model clearly spots-
+
 • Any suspicious transaction that gets flagged
+
 • Identifies new criminal patterns
+
 • Replace primitive Rule-based system
