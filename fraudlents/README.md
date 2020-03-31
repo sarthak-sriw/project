@@ -1,4 +1,4 @@
-**##Fraudlents Detection:**
+**Fraudlents Detection:**
 
 ● Led the team to the finals of SMART INDIA HACKATHON Software Edition 2019 held at Bhubaneswar
 
