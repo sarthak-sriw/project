@@ -1,0 +1,77 @@
+Sarthak Srivastava
+
+sarthak.btech.ec17 @iiitranchi.ac.in | 7985260261 |
+Linkedin] Github
+
+To succeed in an environment of growth and excellence and earn a job which provides me job
+satisfaction and self-development and help me achieve personal as well as organizational goals.
+
+EDUCATION
+
+HIT Ranchi Ranchi,Jharkhand
+3" year, B.Tech,Electronics and Communication Engineering 8.42/10
+
+IIT Ranchi Graduation:May 2021
+MV Convent Allahabad, UP
+Higher Secondary (CBSE Board) 2017 Percentage: 87.2%
+M.P.V.M Ganga Gurukulam Allahabad, UP
+Secondary (CBSE Board) 2015 CGPA: 10
+
+KEY PROJECTS
+Photo Caption Generator July 2019
+
+e Artificial intelligence problem where a textual description is generated for a given photograph.
+
+e It requires both methods from computer vision to understand the content of the image and a
+language model from the field of natural language processing to turn the understanding of the
+image into words in the right order.
+
+Automatic Passage Scoring Feb 2020 - Ongoing
+e Aim of the project is to solve the problem of reading and scoring of unseen passage asked in
+competitive/entrance exams
+e It follows a pipeline to automatic score a passage using various libraries like LDA(for Topic Modelling) ,
+gensim(for Data Processing) and various Machine Learning algorithm
+
+KEY COURSES UNDERTAKEN
+
+Python Certification from CETPA (LUCKNOW) , Machine Learning Certification from CETPA (LUCKNOW) ,Big Data
+
+Certification from IIT Roorkee , Computer Vision from Coursera , Natural Language Processing from Coursera
+
+SKILLS
+
+Python , Computer Vision , NLP , Spark , Hadoop,MS Excel , MS Word , MS Powerpoint , GIT , Sql , Leadership ,
+
+Team Work
+
+POSITIONS OF RESPONSIBILITY
+
+Machine Learning Head at HOG (Technical Society at IIIT Ranchi)
+Executive Technical Secretary at Tri-Questa(Technical,Cultural and ManagementFest of IIIT Ranchi)
+Coordinator Ek Bharat Shrestha Bharat at IIIT RanchiEXTRA CURRICULAR
+
+Member of General Council Responsible for Hostel and Mess related activities
+Member of Kriti,IIIT Ranchi Responsible for decoration in any event
+Organizing Team, HacktoberFest,IIIT Ranchi
+
+Creative Team Team RAYS,NIT Jamshedpur ,2018 | Present
+
+Finance Team - of Sankalp(NGO), NIT Jamshedpur- A PLEDGE TO CHANGE
+Culfest 18 PR Team(Cultural Fest) , NIT Jamshedpur
+
+Ojass 18 Event Management Team(Technical Fest) ,NIT Jamshedpur
+
+ACADEMIC ACHIEVEMENT
+
+Finalist at Smart India Hackathon , Software Edition 2019 March 2019
+@ Led the team to the finals of SMART INDIA HACKATHON held at Bhubaneswar
+@e My team worked for FIS Solutions to build up a model to detect tax fraudulents .
+
+ESVC(Electric Solar Vehicle Challenge) March 2019
+@ Member of Creative and Innovation team representing the college(NIT Jamshedpur)
+in 6th ESVC,Chandigarh
+@ Theteam secured 17" rank all over India in ESVC Adventure Class.
+
+Finalist at IICDC(India Innovation Challenge Design Contest 2019) Ongoing
+e We worked on the project Detection of Depression Through Facial Recognition
+And Vocal Prosody
