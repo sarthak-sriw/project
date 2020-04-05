@@ -2,4 +2,4 @@
 
 
 Using OCR extrasting the pages of resume and converting into images
-![](IMAGES/
+![](IMAGES/page_1.jpg)
