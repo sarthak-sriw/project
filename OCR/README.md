@@ -3,3 +3,11 @@
 
 Using OCR extrasting the pages of resume and converting into images
 ![](IMAGES/page_1.jpg)
+
+Using Image Segmentation techniques to extract individual objects from image
+![](IMAGES/car_bike.jpg)
+
+![](IMAGES/segmentation_car_bike.png)
+
+![](IMAGES/car.png)
+
