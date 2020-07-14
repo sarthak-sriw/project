@@ -46,3 +46,9 @@ Our model clearly spots-
 • Identifies new criminal patterns
 
 • Replace primitive Rule-based system
+
+Fraud are flagged using following parameter - 
+
+- new customer who makes a large or big-ticket purchase with no prior history, or who submits multiple repeat orders in quick succession.
+- wrong information provided by a buyer ie geolocation
+- 
